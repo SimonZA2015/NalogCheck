@@ -4,10 +4,10 @@ test task
 
 PC:
 
-<kbd><img src="https://lh4.googleusercontent.com/msLjfPJpFV9wOM40mn58iBM18gM8f5-NzXkbF1YCRTP4WiuvrzE4CdP9-EpyXdf3mFz4ZEvD5IgfpyrFbGGi=w560-h953-rw"  alt="screenshotPC"></kbd>
+<kbd><img alt="screenshotPC" src="https://lh5.googleusercontent.com/ytQeNg71Sfd9Z1BATFhVJFF2LeudGr9RfS03gTegQLMJCONJFVtxzYq4klrE3xF0RGLQY_QFG2RJJkIuva2D=w1920-h953-rw"/></kbd>
 
 
 Mobile:
-<kbd><img src="https://lh3.googleusercontent.com/mW4cMM4kxJJmHiNKIUOL-vTdyewh83j8TnkghxG28Hxm6TBxhct5FPGSro6LVMDCXFHUOUHJXelT85wlnQjL=w1920-h953-rw" alt="screenshotMobile" ></kbd>
+<kbd><img alt="screenshotMobile" src="https://lh6.googleusercontent.com/4Xs24VuIryNIBy5PXNfbVCAwjZsyGnK_eyUN4gJmVvgxACHAsh8nTJx6Ntya0iL_ZyrEtth9MEouVDMo2hiu=w560-h953-rw"/></kbd>
 
 See: project.denishik.ru/nalogcheck
