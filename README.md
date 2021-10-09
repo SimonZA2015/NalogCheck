@@ -10,4 +10,4 @@ PC:
 Mobile:
 <kbd><img alt="screenshotMobile" src="https://lh6.googleusercontent.com/4Xs24VuIryNIBy5PXNfbVCAwjZsyGnK_eyUN4gJmVvgxACHAsh8nTJx6Ntya0iL_ZyrEtth9MEouVDMo2hiu=w560-h953-rw"/></kbd>
 
-See: project.denishik.ru/nalogcheck
+See: https://project.denishik.ru/nalogcheck
