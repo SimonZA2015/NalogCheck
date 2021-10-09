@@ -1,0 +1,25 @@
+.body {
+
+}
+
+.bodyOutline {
+    max-width: 200px;;
+    border: 2px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 6px;
+    padding: 12px 24px;
+}
+
+.bodyOutline {
+    font-family: Lab Grotesque;
+    color: #FFFFFF;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+}
+.bodyOutline:hover {
+    background: #FFFFFF;
+    border-radius: 6px;
+    color: black;
+}

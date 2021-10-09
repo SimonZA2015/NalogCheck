@@ -1,0 +1,45 @@
+.body {
+    position: relative;
+}
+
+.body input {
+    width: 92%;
+    height: 40px;
+    border: 1px solid #DFE3E6;
+    box-sizing: border-box;
+    border-radius: 3px;
+}
+.body input:hover {
+     border: 1px solid #000000;
+     box-sizing: border-box;
+     border-radius: 3px;
+ }
+.body input:focus {
+    border: 1px solid #DFE3E6;
+    box-sizing: border-box;
+    border-radius: 3px;
+}
+.body input:disabled {
+    border: 1px solid #808080;
+    box-sizing: border-box;
+    border-radius: 3px;
+}
+
+.body text {
+    font-family: Lab Grotesque;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 12px;
+    /* identical to box height, or 120% */
+
+
+    /* Red */
+
+    color: #EA0029;
+}
+.error input {
+    border: 1px solid #EA0029;
+    box-sizing: border-box;
+    border-radius: 3px;
+}

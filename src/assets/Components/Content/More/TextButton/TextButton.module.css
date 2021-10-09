@@ -1,0 +1,20 @@
+.body {
+
+}
+.body text {
+    font-family: Lab Grotesque;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    /* identical to box height, or 171% */
+
+
+    /* Red */
+
+    color: #EA0029;
+
+}
+.body:hover {
+    color: #F53A31;
+}

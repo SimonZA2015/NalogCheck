@@ -1,0 +1,32 @@
+.body {
+    max-width: 250px;
+    background: #EEF0F2;
+    border-radius: 50px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 6px 12px;
+}
+.body text {
+    font-family: Lab Grotesque;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    /* identical to box height, or 171% */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0 12px;
+}
+
+.active {
+    background: linear-gradient(255.35deg, #DC3131 0.83%, rgba(255, 79, 79, 0) 108.93%), #FF5E56;
+    border-radius: 50px;
+    color: white;
+}
+

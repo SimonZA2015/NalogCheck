@@ -1,0 +1,26 @@
+.body {
+    margin-right: 5px;
+}
+.checkbox {
+    background: #FFFFFF;
+    border: 1px solid #b4babb;
+    box-sizing: border-box;
+    border-radius: 6px;
+}
+.checkbox:hover {
+    background: #FFFFFF;
+    /* Black 000 */
+
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 6px;
+}
+.checkbox:checked {
+    background: linear-gradient(255.35deg, #DC3131 0%, rgba(255, 79, 79, 1) 100%);
+    border-radius: 6px;
+}
+
+.active {
+    background: linear-gradient(255.35deg, #DC3131 0.83%, rgba(255, 79, 79, 0) 108.93%), #FF5E56;
+    border-radius: 6px;
+}

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/crombaher-kitchen.iml" filepath="$PROJECT_DIR$/.idea/crombaher-kitchen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/NalogCheck.iml" filepath="$PROJECT_DIR$/.idea/NalogCheck.iml" />
     </modules>
   </component>
 </project>

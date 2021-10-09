@@ -1,0 +1,28 @@
+.body {
+ width: 92%;
+}
+.body h3 {
+    font-family: Lab Grotesque;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 40px;
+    margin: 0;
+}
+.body span {
+    font-family: Lab Grotesque;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #808080;
+}
+
+.body h4 {
+    font-family: Lab Grotesque;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    margin: 0;
+}
